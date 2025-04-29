@@ -1,0 +1,11 @@
+/* 请将你在聊天记录中最终使用的 Rofi 主题配置粘贴到这里 */
+/* 以下为示例 */
+configuration {
+    font: "JetBrainsMono Nerd Font 12";
+    show-icons: true;
+    modi: "drun,run,window"; /* 根据 rofi_yai_advanced.sh 的调用方式调整 */
+    /* ... 其他主题设置 ... */
+     always-on-top: true; /* 保持窗口在前 */
+     floating: true;
+}
+@theme "/usr/share/rofi/themes/Arc-Dark.rasi" /* 或其他基础主题 */

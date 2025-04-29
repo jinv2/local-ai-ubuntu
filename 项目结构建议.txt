@@ -1,0 +1,16 @@
+local-ai-ubuntu/
+├── README.md             # 项目说明文档（非常重要！）
+├── install.sh            # 一键安装脚本
+├── config/               # 存放需要复制的配置文件
+│   ├── yai/
+│   │   ├── config.yaml
+│   │   └── custom_rules.yaml
+│   ├── sxhkd/
+│   │   └── sxhkdrc
+│   ├── rofi/
+│   │   └── config.rasi  # (如果你定制了 Rofi 主题)
+│   └── scripts/
+│       ├── rofi_yai_advanced.sh
+│       └── scan_desktop_files.sh # (如果你用了高级版)
+└── assets/               # (可选) 可以放截图或图标
+    └── natural-language-terminal.desktop # 桌面启动器模板

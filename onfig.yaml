@@ -1,3 +1,0 @@
-language: zh
-mode: direct # 或者根据 yai 文档设为 'interactive' 或其他
-# 可以添加 yai 支持的其他配置项

@@ -1,0 +1,5 @@
+custom:
+  - https://paypal.me/jinv2 # 指向您的 PayPal.Me
+# 或者，如果您希望用户访问您网站的 /support/ 页面：
+# custom:
+#  - https://jinv2.github.io/support/

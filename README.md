@@ -34,8 +34,8 @@
 
 1.  **克隆本仓库:**
     ```bash
-    git clone https://github.com/jinv2/local-ai-ubuntu.git # 请替换为你的实际仓库地址
-    cd local-ai-ubuntu
+    git clone https://github.com/jinv2/local-ai-ubuntu.git # 如果您的仓库名不同，请修改
+    cd local-ai-ubuntu # 如果您的仓库名不同，请修改
     ```
 
 2.  **运行一键安装脚本:**
@@ -106,10 +106,24 @@
     *   检查 `~/.config/rofi/config.rasi` 文件配置是否正确。
     *   检查 `rofi_yai_advanced.sh` 脚本中调用 `rofi` 的参数。
 
-##🤝 贡献
+---
+## 💖 支持本项目 (Support This Project)
+
+如果您觉得这个 **本地AI命令助手** 项目对您有帮助，并希望支持我继续开发和维护这类开源工具，欢迎通过以下方式表达您的支持：
+
+*   **通过 PayPal.Me 快速捐款给 天算AI：**
+    [https://paypal.me/jinv2](https://paypal.me/jinv2)
+
+    [![PayPal.Me Donate Button](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jinv2)
+
+您的支持是我持续创作和分享的巨大动力！
+
+---
+
+## 🤝 贡献 (Contributing)
 
 欢迎提交 Issue 或 Pull Request 来改进本项目！
 
-##📄 许可证
+## 📄 许可证 (License)
 
 (可选) 可以选择一个开源许可证，例如 MIT License。
